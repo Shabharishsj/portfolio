@@ -1,0 +1,161 @@
+
+/* GOOGLE FONTS
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Lobster', cursive; */
+
+body{
+  background-color: #eeeeee
+}
+
+/*NAVBAR*/
+.container-fluid-custom-head{
+  padding-top: 2%;
+  padding-left: 15%;
+  padding-right: 15%;
+  background-color: #eeeeee;
+}
+
+.custom-a{
+  font-family: 'Comfortaa', cursive;
+  color: black;
+  font-weight: bolder;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+:hover.custom-a{
+    color: #32e0c4;
+}
+
+.letter-S{
+  width: 50px;
+  margin-left: 8px;
+}
+
+/* WELCOME PAGE SECTION */
+.welcome-page-main-div{
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+
+.main-photo{
+  width: 300px;
+  margin: 20% 17% 15% 1%;
+  box-shadow: -20px -10px 20px #393e46;
+}
+
+.welcome-page-heading{
+  font-family: 'Comfortaa', cursive;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 150px;
+  font-weight: bolder;
+}
+
+.welcome-page-para{
+  font-family: 'Comfortaa', cursive;
+  font-size: 24px;
+  text-align: center;
+}
+
+
+
+
+
+/* ABOUT ME SECTION */
+.container-fluid-custom-about-me{
+  padding: 2% 15% 10% 15%;
+  background-color: #32e0c4;
+  text-align: center;
+
+}
+
+.about-me-page-heading{
+  font-family: 'Comfortaa', cursive;
+  font-size: 24px;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-weight: bolder;
+}
+
+.about-me-page-text{
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+  padding-top: 10%;
+  font-weight: bolder;
+}
+
+.border-style-custom{
+  border-style: none;
+}
+
+.about-me-images{
+  width: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FEED SECTION */
+.container-fluid-custom-feed{
+  padding: 2% 15% 10% 15%;
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+.feed-page-heading{
+  font-family: 'Comfortaa', cursive;
+  font-size: 24px;
+  padding-top: 2%;
+  font-weight: bolder;
+}
+
+
+.photo-feed{
+  width: 300px;
+  box-shadow: -20px -10px 20px #393e46;
+}
+
+
+
+
+
+
+/* CONTACT ME SECTION */
+.container-fluid-contact-me{
+  padding: 1% 15% 1px 15%;
+  background-color: #222831;
+  text-align: center;
+}
+
+.contact-heading{
+  font-family: 'Comfortaa', cursive;
+  font-size: 24px;
+  padding-top: 3%;
+  padding-bottom: 1%;
+  font-weight: bolder;
+  color: #eeeeee;
+}
+
+.contact-me-text{
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+  padding-top: 2%;
+  font-weight: bolder;
+  color: #eeeeee;
+}
